@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "リルビィ",
+  "base_artist": "空白ごっこ",
+  "createdAt": "2026-02-25T10:28:12.578173Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "リルビィ",
+      "artist": "空白ごっこ",
+      "has_synced": false,
+      "path": "select/pl_01_リルビィ_空白ごっこ.txt"
+    }
+  ]
+}
